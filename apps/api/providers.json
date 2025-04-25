@@ -5,811 +5,1830 @@
     "provider_url": "https://newernewapi69.nexeonai.com/v1/chat/completions",
     "models": {
       "ada:ft-ipsoft-2023-02-28-14-19-37": {
-        "response_time": null,
-        "response_times": []
+        "id": "ada:ft-ipsoft-2023-02-28-14-19-37",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "ada:ft-ipsoft-2023-03-01-08-30-17": {
-        "response_time": null,
-        "response_times": []
+        "id": "ada:ft-ipsoft-2023-03-01-08-30-17",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "babbage-002": {
-        "response_time": null,
-        "response_times": []
+        "id": "babbage-002",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "c4ai-aya-expanse-32b": {
-        "response_time": null,
-        "response_times": []
+        "id": "c4ai-aya-expanse-32b",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "chatgpt-4o-latest": {
-        "response_time": null,
-        "response_times": []
+        "id": "chatgpt-4o-latest",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "codestral-2405": {
-        "response_time": null,
-        "response_times": []
+        "id": "codestral-2405",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "codestral-2411-rc5": {
-        "response_time": null,
-        "response_times": []
+        "id": "codestral-2411-rc5",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "codestral-2412": {
-        "response_time": null,
-        "response_times": []
+        "id": "codestral-2412",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "codestral-2501": {
-        "response_time": null,
-        "response_times": []
+        "id": "codestral-2501",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "codestral-latest": {
-        "response_time": null,
-        "response_times": []
+        "id": "codestral-latest",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "codestral-mamba-2407": {
-        "response_time": null,
-        "response_times": []
+        "id": "codestral-mamba-2407",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "codestral-mamba-latest": {
-        "response_time": null,
-        "response_times": []
+        "id": "codestral-mamba-latest",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "command-a-03-2025": {
-        "response_time": null,
-        "response_times": []
+        "id": "command-a-03-2025",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "computer-use-preview": {
-        "response_time": null,
-        "response_times": []
+        "id": "computer-use-preview",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "computer-use-preview-2025-03-11": {
-        "response_time": null,
-        "response_times": []
+        "id": "computer-use-preview-2025-03-11",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "dall-e-2": {
-        "response_time": null,
-        "response_times": []
+        "id": "dall-e-2",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "dall-e-3": {
-        "response_time": null,
-        "response_times": []
+        "id": "dall-e-3",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "dall-e-3-v2": {
-        "response_time": null,
-        "response_times": []
+        "id": "dall-e-3-v2",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "davinci-002": {
-        "response_time": null,
-        "response_times": []
+        "id": "davinci-002",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "deepseek-chat": {
-        "response_time": null,
-        "response_times": []
+        "id": "deepseek-chat",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "deepseek-r1": {
-        "response_time": null,
-        "response_times": []
+        "id": "deepseek-r1",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "deepseek-reasoner": {
-        "response_time": null,
-        "response_times": []
+        "id": "deepseek-reasoner",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "deepseek-v3-0324": {
-        "response_time": null,
-        "response_times": []
+        "id": "deepseek-v3-0324",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "FLUX.1-dev": {
-        "response_time": null,
-        "response_times": []
+        "id": "FLUX.1-dev",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "FLUX.1-pro": {
-        "response_time": null,
-        "response_times": []
+        "id": "FLUX.1-pro",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "FLUX.1-schnell": {
-        "response_time": null,
-        "response_times": []
+        "id": "FLUX.1-schnell",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "FLUX.1.1-pro": {
-        "response_time": null,
-        "response_times": []
+        "id": "FLUX.1.1-pro",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "FLUX.1.1-pro-ultra-raw": {
-        "response_time": null,
-        "response_times": []
+        "id": "FLUX.1.1-pro-ultra-raw",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gem-unlocked": {
-        "response_time": null,
-        "response_times": []
+        "id": "gem-unlocked",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gemini-1.5-flash": {
-        "response_time": null,
-        "response_times": []
+        "id": "gemini-1.5-flash",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gemini-1.5-flash-8b": {
-        "response_time": null,
-        "response_times": []
+        "id": "gemini-1.5-flash-8b",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gemini-1.5-flash-latest": {
-        "response_time": null,
+        "id": "gemini-1.5-flash-latest",
+        "token_generation_speed": 50,
         "response_times": [],
-        "provider_score": 0
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gemini-1.5-pro": {
-        "response_time": null,
-        "response_times": []
+        "id": "gemini-1.5-pro",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gemini-1.5-pro-latest": {
-        "response_time": null,
-        "response_times": []
+        "id": "gemini-1.5-pro-latest",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gemini-2.0-flash": {
-        "response_time": null,
-        "response_times": []
+        "id": "gemini-2.0-flash",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gemini-2.0-flash-exp": {
-        "response_time": null,
-        "response_times": []
+        "id": "gemini-2.0-flash-exp",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gemini-2.0-flash-lite": {
-        "response_time": null,
-        "response_times": []
+        "id": "gemini-2.0-flash-lite",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gemini-2.0-flash-lite-preview": {
-        "response_time": null,
-        "response_times": []
+        "id": "gemini-2.0-flash-lite-preview",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gemini-2.0-flash-thinking-exp": {
-        "response_time": null,
-        "response_times": []
+        "id": "gemini-2.0-flash-thinking-exp",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gemini-2.0-pro-exp": {
-        "response_time": null,
-        "response_times": []
+        "id": "gemini-2.0-pro-exp",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gemini-2.5-pro-exp-03-25": {
-        "response_time": null,
-        "response_times": []
+        "id": "gemini-2.5-pro-exp-03-25",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gemini-exp-1206": {
-        "response_time": null,
-        "response_times": []
+        "id": "gemini-exp-1206",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gemma-3-27b-it": {
-        "response_time": null,
-        "response_times": []
+        "id": "gemma-3-27b-it",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gpt-3.5-turbo": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-3.5-turbo",
+        "token_generation_speed": 82.18,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 82.18
       },
       "gpt-3.5-turbo-0125": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-3.5-turbo-0125",
+        "token_generation_speed": 80.81,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 80.81
       },
       "gpt-3.5-turbo-1106": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-3.5-turbo-1106",
+        "token_generation_speed": 130.6,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 130.6
       },
       "gpt-3.5-turbo-16k": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-3.5-turbo-16k",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gpt-3.5-turbo-16k-0613": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-3.5-turbo-16k-0613",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gpt-3.5-turbo-instruct": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-3.5-turbo-instruct",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gpt-3.5-turbo-instruct-0914": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-3.5-turbo-instruct-0914",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gpt-4": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-4",
+        "token_generation_speed": 26.42,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 26.42
       },
       "gpt-4-0125-preview": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-4-0125-preview",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gpt-4-0613": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-4-0613",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gpt-4-1106-preview": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-4-1106-preview",
+        "token_generation_speed": 30.63,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 30.63
       },
       "gpt-4-turbo": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-4-turbo",
+        "token_generation_speed": 32.67,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 32.67
       },
       "gpt-4-turbo-2024-04-09": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-4-turbo-2024-04-09",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gpt-4-turbo-preview": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-4-turbo-preview",
+        "token_generation_speed": 32.61,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 32.61
       },
       "gpt-4.1": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-4.1",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gpt-4.1-2025-04-14": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-4.1-2025-04-14",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gpt-4.1-mini": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-4.1-mini",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gpt-4.1-mini-2025-04-14": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-4.1-mini-2025-04-14",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gpt-4.1-nano": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-4.1-nano",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gpt-4.1-nano-2025-04-14": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-4.1-nano-2025-04-14",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gpt-4.5-preview": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-4.5-preview",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gpt-4.5-preview-2025-02-27": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-4.5-preview-2025-02-27",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gpt-4o": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-4o",
+        "token_generation_speed": 128.3,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 128.3
       },
       "gpt-4o-2024-05-13": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-4o-2024-05-13",
+        "token_generation_speed": 105.7,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 105.7
       },
       "gpt-4o-2024-08-06": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-4o-2024-08-06",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gpt-4o-2024-11-20": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-4o-2024-11-20",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gpt-4o-audio-preview": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-4o-audio-preview",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gpt-4o-audio-preview-2024-10-01": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-4o-audio-preview-2024-10-01",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gpt-4o-audio-preview-2024-12-17": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-4o-audio-preview-2024-12-17",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gpt-4o-mini": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-4o-mini",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gpt-4o-mini-2024-07-18": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-4o-mini-2024-07-18",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gpt-4o-mini-audio-preview": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-4o-mini-audio-preview",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gpt-4o-mini-audio-preview-2024-12-17": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-4o-mini-audio-preview-2024-12-17",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gpt-4o-mini-realtime-preview": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-4o-mini-realtime-preview",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gpt-4o-mini-realtime-preview-2024-12-17": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-4o-mini-realtime-preview-2024-12-17",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gpt-4o-mini-search-preview": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-4o-mini-search-preview",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gpt-4o-mini-search-preview-2025-03-11": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-4o-mini-search-preview-2025-03-11",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gpt-4o-mini-transcribe": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-4o-mini-transcribe",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gpt-4o-mini-tts": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-4o-mini-tts",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gpt-4o-realtime-preview": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-4o-realtime-preview",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gpt-4o-realtime-preview-2024-10-01": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-4o-realtime-preview-2024-10-01",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gpt-4o-realtime-preview-2024-12-17": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-4o-realtime-preview-2024-12-17",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gpt-4o-search-preview": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-4o-search-preview",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gpt-4o-search-preview-2025-03-11": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-4o-search-preview-2025-03-11",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "gpt-4o-transcribe": {
-        "response_time": null,
-        "response_times": []
+        "id": "gpt-4o-transcribe",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "grok-2-aurora": {
-        "response_time": null,
-        "response_times": []
+        "id": "grok-2-aurora",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "grok-3": {
-        "response_time": null,
-        "response_times": []
+        "id": "grok-3",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "helix-thinking-uncensored-exp": {
-        "response_time": null,
-        "response_times": []
+        "id": "helix-thinking-uncensored-exp",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "helix-uncensored-exp": {
-        "response_time": null,
-        "response_times": []
+        "id": "helix-uncensored-exp",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "hermes-3-llama-3.1-405b": {
-        "response_time": null,
-        "response_times": []
+        "id": "hermes-3-llama-3.1-405b",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "ideogram-v2-turbo": {
-        "response_time": null,
-        "response_times": []
+        "id": "ideogram-v2-turbo",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "imagen-3.0-generate-002": {
-        "response_time": null,
-        "response_times": []
+        "id": "imagen-3.0-generate-002",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "inflection-3-pi": {
-        "response_time": null,
-        "response_times": []
+        "id": "inflection-3-pi",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "inflection-3-productivity": {
-        "response_time": null,
-        "response_times": []
+        "id": "inflection-3-productivity",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "kandinsky-3.1": {
-        "response_time": null,
-        "response_times": []
+        "id": "kandinsky-3.1",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "koru-deep-research": {
-        "response_time": null,
-        "response_times": []
+        "id": "koru-deep-research",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "koru-diffusion-v1": {
-        "response_time": null,
-        "response_times": []
+        "id": "koru-diffusion-v1",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "koru-ei-20250406": {
-        "response_time": null,
-        "response_times": []
+        "id": "koru-ei-20250406",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "koru-oni-20250327": {
-        "response_time": null,
-        "response_times": []
+        "id": "koru-oni-20250327",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "koru-search": {
-        "response_time": null,
-        "response_times": []
+        "id": "koru-search",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "learnlm-1.5-pro-experimental": {
-        "response_time": null,
-        "response_times": []
+        "id": "learnlm-1.5-pro-experimental",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "llama-3.1-8b": {
-        "response_time": null,
-        "response_times": []
+        "id": "llama-3.1-8b",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "llama-3.2-90b-vision-instruct": {
-        "response_time": null,
-        "response_times": []
+        "id": "llama-3.2-90b-vision-instruct",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "llama-3.3-70b": {
-        "response_time": null,
-        "response_times": []
+        "id": "llama-3.3-70b",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "llama-4-maverick": {
-        "response_time": null,
-        "response_times": []
+        "id": "llama-4-maverick",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "llama-4-scout": {
-        "response_time": null,
-        "response_times": []
+        "id": "llama-4-scout",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "minimax-01": {
-        "response_time": null,
-        "response_times": []
+        "id": "minimax-01",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "ministral-3b-2410": {
-        "response_time": null,
-        "response_times": []
+        "id": "ministral-3b-2410",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "ministral-3b-latest": {
-        "response_time": null,
-        "response_times": []
+        "id": "ministral-3b-latest",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "ministral-8b-2410": {
-        "response_time": null,
-        "response_times": []
+        "id": "ministral-8b-2410",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "ministral-8b-latest": {
-        "response_time": null,
-        "response_times": []
+        "id": "ministral-8b-latest",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "mistral-embed": {
-        "response_time": null,
-        "response_times": []
+        "id": "mistral-embed",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "mistral-large-2402": {
-        "response_time": null,
-        "response_times": []
+        "id": "mistral-large-2402",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "mistral-large-2407": {
-        "response_time": null,
-        "response_times": []
+        "id": "mistral-large-2407",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "mistral-large-2411": {
-        "response_time": null,
-        "response_times": []
+        "id": "mistral-large-2411",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "mistral-large-latest": {
-        "response_time": null,
-        "response_times": []
+        "id": "mistral-large-latest",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "mistral-large-pixtral-2411": {
-        "response_time": null,
-        "response_times": []
+        "id": "mistral-large-pixtral-2411",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "mistral-medium": {
-        "response_time": null,
-        "response_times": []
+        "id": "mistral-medium",
+        "token_generation_speed": 37.49,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 37.49
       },
       "mistral-medium-2312": {
-        "response_time": null,
-        "response_times": []
+        "id": "mistral-medium-2312",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "mistral-medium-latest": {
-        "response_time": null,
-        "response_times": []
+        "id": "mistral-medium-latest",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "mistral-moderation-2411": {
-        "response_time": null,
-        "response_times": []
+        "id": "mistral-moderation-2411",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "mistral-moderation-latest": {
-        "response_time": null,
-        "response_times": []
+        "id": "mistral-moderation-latest",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "mistral-ocr-2503": {
-        "response_time": null,
-        "response_times": []
+        "id": "mistral-ocr-2503",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "mistral-ocr-latest": {
-        "response_time": null,
-        "response_times": []
+        "id": "mistral-ocr-latest",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "mistral-saba-2502": {
-        "response_time": null,
-        "response_times": []
+        "id": "mistral-saba-2502",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "mistral-saba-latest": {
-        "response_time": null,
-        "response_times": []
+        "id": "mistral-saba-latest",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "mistral-small": {
-        "response_time": null,
-        "response_times": []
+        "id": "mistral-small",
+        "token_generation_speed": 64.9,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 64.9
       },
       "mistral-small-2312": {
-        "response_time": null,
-        "response_times": []
+        "id": "mistral-small-2312",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "mistral-small-2402": {
-        "response_time": null,
-        "response_times": []
+        "id": "mistral-small-2402",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "mistral-small-2409": {
-        "response_time": null,
-        "response_times": []
+        "id": "mistral-small-2409",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "mistral-small-2501": {
-        "response_time": null,
-        "response_times": []
+        "id": "mistral-small-2501",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "mistral-small-latest": {
-        "response_time": null,
-        "response_times": []
+        "id": "mistral-small-latest",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "mistral-tiny": {
-        "response_time": null,
-        "response_times": []
+        "id": "mistral-tiny",
+        "token_generation_speed": 62.96,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 62.96
       },
       "mistral-tiny-2312": {
-        "response_time": null,
-        "response_times": []
+        "id": "mistral-tiny-2312",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "mistral-tiny-2407": {
-        "response_time": null,
-        "response_times": []
+        "id": "mistral-tiny-2407",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "mistral-tiny-latest": {
-        "response_time": null,
-        "response_times": []
+        "id": "mistral-tiny-latest",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "mythomax-l2-13b": {
-        "response_time": null,
-        "response_times": []
+        "id": "mythomax-l2-13b",
+        "token_generation_speed": 33.61,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 33.61
       },
       "nova-pro-v1": {
-        "response_time": null,
-        "response_times": []
+        "id": "nova-pro-v1",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "o1": {
-        "response_time": null,
-        "response_times": []
+        "id": "o1",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "o1-2024-12-17": {
-        "response_time": null,
-        "response_times": []
+        "id": "o1-2024-12-17",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "o1-mini": {
-        "response_time": null,
-        "response_times": []
+        "id": "o1-mini",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "o1-mini-2024-09-12": {
-        "response_time": null,
-        "response_times": []
+        "id": "o1-mini-2024-09-12",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "o1-preview": {
-        "response_time": null,
-        "response_times": []
+        "id": "o1-preview",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "o1-preview-2024-09-12": {
-        "response_time": null,
-        "response_times": []
+        "id": "o1-preview-2024-09-12",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "o1-pro": {
-        "response_time": null,
-        "response_times": []
+        "id": "o1-pro",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "o1-pro-2025-03-19": {
-        "response_time": null,
-        "response_times": []
+        "id": "o1-pro-2025-03-19",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "o3": {
-        "response_time": null,
-        "response_times": []
+        "id": "o3",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "o3-2025-04-16": {
-        "response_time": null,
-        "response_times": []
+        "id": "o3-2025-04-16",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "o3-mini": {
-        "response_time": null,
-        "response_times": [],
-        "provider_score": 0
+        "id": "o3-mini",
+        "token_generation_speed": 50,
+        "response_times": [
+          {
+            "timestamp": 1745607229670,
+            "response_time": 5027,
+            "input_tokens": 8,
+            "output_tokens": 21,
+            "tokens_generated": 29,
+            "provider_latency": 4607,
+            "observed_speed_tps": 50,
+            "apiKey": "ad9970421fe07447bf011f78a88d72af2e7465df65d27844feeb2df9aa5f6772"
+          },
+          {
+            "timestamp": 1745607582430,
+            "response_time": 2270,
+            "input_tokens": 8,
+            "output_tokens": 18,
+            "tokens_generated": 26,
+            "provider_latency": 1910,
+            "observed_speed_tps": 50,
+            "apiKey": "ad9970421fe07447bf011f78a88d72af2e7465df65d27844feeb2df9aa5f6772"
+          }
+        ],
+        "errors": 1,
+        "avg_response_time": 4199.9,
+        "avg_provider_latency": 3797.9,
+        "avg_token_speed": 50
       },
       "o3-mini-2025-01-31": {
-        "response_time": null,
-        "response_times": []
+        "id": "o3-mini-2025-01-31",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "o3-mini-low": {
-        "response_time": null,
-        "response_times": []
+        "id": "o3-mini-low",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "o4-mini": {
-        "response_time": null,
-        "response_times": []
+        "id": "o4-mini",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "o4-mini-2025-04-16": {
-        "response_time": null,
-        "response_times": []
+        "id": "o4-mini-2025-04-16",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "omni-moderation-2024-09-26": {
-        "response_time": null,
-        "response_times": []
+        "id": "omni-moderation-2024-09-26",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "omni-moderation-latest": {
-        "response_time": null,
-        "response_times": []
+        "id": "omni-moderation-latest",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "open-codestral-mamba": {
-        "response_time": null,
-        "response_times": []
+        "id": "open-codestral-mamba",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "open-mistral-7b": {
-        "response_time": null,
-        "response_times": []
+        "id": "open-mistral-7b",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "open-mistral-nemo": {
-        "response_time": null,
-        "response_times": []
+        "id": "open-mistral-nemo",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "open-mistral-nemo-2407": {
-        "response_time": null,
-        "response_times": []
+        "id": "open-mistral-nemo-2407",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "open-mixtral-8x22b": {
-        "response_time": null,
-        "response_times": []
+        "id": "open-mixtral-8x22b",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "open-mixtral-8x22b-2404": {
-        "response_time": null,
-        "response_times": []
+        "id": "open-mixtral-8x22b-2404",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "open-mixtral-8x7b": {
-        "response_time": null,
-        "response_times": []
+        "id": "open-mixtral-8x7b",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "optimus-alpha": {
-        "response_time": null,
-        "response_times": []
+        "id": "optimus-alpha",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "phi-4-multimodal-instruct": {
-        "response_time": null,
-        "response_times": []
+        "id": "phi-4-multimodal-instruct",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "pixtral-12b": {
-        "response_time": null,
-        "response_times": []
+        "id": "pixtral-12b",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "pixtral-12b-2409": {
-        "response_time": null,
-        "response_times": []
+        "id": "pixtral-12b-2409",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "pixtral-12b-latest": {
-        "response_time": null,
-        "response_times": []
+        "id": "pixtral-12b-latest",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "pixtral-large-2411": {
-        "response_time": null,
-        "response_times": []
+        "id": "pixtral-large-2411",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "pixtral-large-latest": {
-        "response_time": null,
-        "response_times": []
+        "id": "pixtral-large-latest",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "playground-v2.5": {
-        "response_time": null,
-        "response_times": []
+        "id": "playground-v2.5",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "qvq-72b-preview": {
-        "response_time": null,
-        "response_times": []
+        "id": "qvq-72b-preview",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "qwen-max": {
-        "response_time": null,
-        "response_times": []
+        "id": "qwen-max",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "qwen-qwq-32b": {
-        "response_time": null,
-        "response_times": []
+        "id": "qwen-qwq-32b",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "qwen2.5-vl-72b-instruct": {
-        "response_time": null,
-        "response_times": []
+        "id": "qwen2.5-vl-72b-instruct",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "qwq-32b-arliai-rpr-v1": {
-        "response_time": null,
-        "response_times": []
+        "id": "qwq-32b-arliai-rpr-v1",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "r1-1776": {
-        "response_time": null,
-        "response_times": []
+        "id": "r1-1776",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "recraft-v3": {
-        "response_time": null,
-        "response_times": []
+        "id": "recraft-v3",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "sd3.5": {
-        "response_time": null,
-        "response_times": []
+        "id": "sd3.5",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "shivaay": {
-        "response_time": null,
-        "response_times": []
+        "id": "shivaay",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "sonar": {
-        "response_time": null,
-        "response_times": []
+        "id": "sonar",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "sonar-deep-research": {
-        "response_time": null,
-        "response_times": []
+        "id": "sonar-deep-research",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "sonar-pro": {
-        "response_time": null,
-        "response_times": []
+        "id": "sonar-pro",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "sonar-reasoning": {
-        "response_time": null,
-        "response_times": []
+        "id": "sonar-reasoning",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "sonar-reasoning-pro": {
-        "response_time": null,
-        "response_times": []
+        "id": "sonar-reasoning-pro",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "text-embedding-3-large": {
-        "response_time": null,
-        "response_times": []
+        "id": "text-embedding-3-large",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "text-embedding-3-small": {
-        "response_time": null,
-        "response_times": []
+        "id": "text-embedding-3-small",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "text-embedding-ada-002": {
-        "response_time": null,
-        "response_times": []
+        "id": "text-embedding-ada-002",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "text-moderation-latest": {
-        "response_time": null,
-        "response_times": []
+        "id": "text-moderation-latest",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "tts-1": {
-        "response_time": null,
-        "response_times": []
+        "id": "tts-1",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "tts-1-1106": {
-        "response_time": null,
-        "response_times": []
+        "id": "tts-1-1106",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "tts-1-hd": {
-        "response_time": null,
-        "response_times": []
+        "id": "tts-1-hd",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "tts-1-hd-1106": {
-        "response_time": null,
-        "response_times": []
+        "id": "tts-1-hd-1106",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "ui-tars-72b": {
-        "response_time": null,
-        "response_times": []
+        "id": "ui-tars-72b",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "whisper-1": {
-        "response_time": null,
-        "response_times": []
+        "id": "whisper-1",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "whisper-large-v3": {
-        "response_time": null,
-        "response_times": []
+        "id": "whisper-large-v3",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "wizardlm-2-8x22b": {
-        "response_time": null,
-        "response_times": []
+        "id": "wizardlm-2-8x22b",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       },
       "yi-lightning": {
-        "response_time": null,
-        "response_times": []
+        "id": "yi-lightning",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
       }
     },
-    "avg_response_time": 0,
-    "avg_provider_latency": 0,
-    "errors": 0,
-    "provider_score": 0
+    "avg_response_time": 3648.5,
+    "avg_provider_latency": 3258.5,
+    "errors": 1,
+    "provider_score": 40
   }
 ]
