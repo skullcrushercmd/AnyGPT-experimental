@@ -1406,11 +1406,21 @@
             "provider_latency": 7073,
             "observed_speed_tps": 50,
             "apiKey": "ad9970421fe07447bf011f78a88d72af2e7465df65d27844feeb2df9aa5f6772"
+          },
+          {
+            "timestamp": 1746121640119,
+            "response_time": 11649,
+            "input_tokens": 8,
+            "output_tokens": 19,
+            "tokens_generated": 27,
+            "provider_latency": 11269,
+            "observed_speed_tps": 50,
+            "apiKey": "ad9970421fe07447bf011f78a88d72af2e7465df65d27844feeb2df9aa5f6772"
           }
         ],
         "errors": 1,
-        "avg_response_time": 10385.19,
-        "avg_provider_latency": 9998.59,
+        "avg_response_time": 10764.33,
+        "avg_provider_latency": 10379.71,
         "avg_token_speed": 50
       },
       "o3-mini-2025-01-31": {
@@ -1846,10 +1856,10 @@
         "avg_token_speed": 50
       }
     },
-    "avg_response_time": 10572.5,
-    "avg_provider_latency": 10182.5,
+    "avg_response_time": 10787.8,
+    "avg_provider_latency": 10399.8,
     "errors": 1,
-    "provider_score": 23
+    "provider_score": 24
   },
   {
     "id": "openai-nexeontest",
