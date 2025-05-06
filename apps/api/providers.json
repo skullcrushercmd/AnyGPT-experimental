@@ -395,10 +395,11 @@
         "id": "gpt-3.5-turbo",
         "token_generation_speed": 82.18,
         "response_times": [],
-        "errors": 0,
+        "errors": 2,
         "avg_response_time": null,
         "avg_provider_latency": null,
-        "avg_token_speed": 82.18
+        "avg_token_speed": 82.18,
+        "consecutive_errors": 2
       },
       "gpt-3.5-turbo-0125": {
         "id": "gpt-3.5-turbo-0125",
@@ -1367,11 +1368,11 @@
         "id": "o3-mini",
         "token_generation_speed": 50,
         "response_times": [],
-        "errors": 3,
+        "errors": 6,
         "avg_response_time": null,
         "avg_provider_latency": null,
         "avg_token_speed": 50,
-        "consecutive_errors": 2
+        "consecutive_errors": 5
       },
       "o3-mini-2025-01-31": {
         "id": "o3-mini-2025-01-31",
@@ -1808,7 +1809,7 @@
     },
     "avg_response_time": null,
     "avg_provider_latency": null,
-    "errors": 3,
+    "errors": 8,
     "provider_score": 35,
     "disabled": false
   },
@@ -2361,10 +2362,11 @@
         "id": "gpt-3.5-turbo",
         "token_generation_speed": 82.18,
         "response_times": [],
-        "errors": 0,
+        "errors": 2,
         "avg_response_time": null,
         "avg_provider_latency": null,
-        "avg_token_speed": 82.18
+        "avg_token_speed": 82.18,
+        "consecutive_errors": 2
       },
       "gpt-3.5-turbo-0125": {
         "id": "gpt-3.5-turbo-0125",
@@ -3189,11 +3191,11 @@
         "id": "o3-mini",
         "token_generation_speed": 50,
         "response_times": [],
-        "errors": 1,
+        "errors": 5,
         "avg_response_time": null,
         "avg_provider_latency": null,
         "avg_token_speed": 50,
-        "consecutive_errors": 1
+        "consecutive_errors": 5
       },
       "o3-mini-2025-01-31": {
         "id": "o3-mini-2025-01-31",
@@ -4053,8 +4055,281 @@
     },
     "avg_response_time": null,
     "avg_provider_latency": null,
-    "errors": 1,
+    "errors": 7,
     "provider_score": 35,
     "disabled": false
+  },
+  {
+    "id": "openai-exoml",
+    "apiKey": "sk-123o5ji23ioj413295j1c5c42joiads",
+    "provider_url": "https://api.exomlapi.com/v1/chat/completions",
+    "models": {
+      "gpt-4o-mini": {
+        "id": "gpt-4o-mini",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "consecutive_errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
+      },
+      "gpt-4o": {
+        "id": "gpt-4o",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "consecutive_errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
+      },
+      "gpt-4.1": {
+        "id": "gpt-4.1",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "consecutive_errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
+      },
+      "gpt-3.5-turbo": {
+        "id": "gpt-3.5-turbo",
+        "token_generation_speed": 50,
+        "response_times": [
+          {
+            "timestamp": 1746554378641,
+            "response_time": 1124,
+            "input_tokens": 8,
+            "output_tokens": 16,
+            "tokens_generated": 24,
+            "provider_latency": 929,
+            "observed_speed_tps": 82.05128205128204,
+            "apiKey": "ad9970421fe07447bf011f78a88d72af2e7465df65d27844feeb2df9aa5f6772"
+          },
+          {
+            "timestamp": 1746554460123,
+            "response_time": 1245,
+            "input_tokens": 8,
+            "output_tokens": 15,
+            "tokens_generated": 23,
+            "provider_latency": 1062,
+            "observed_speed_tps": 81.9672131147541,
+            "apiKey": "ad9970421fe07447bf011f78a88d72af2e7465df65d27844feeb2df9aa5f6772"
+          },
+          {
+            "timestamp": 1746554750418,
+            "response_time": 1180,
+            "input_tokens": 8,
+            "output_tokens": 15,
+            "tokens_generated": 23,
+            "provider_latency": 997,
+            "observed_speed_tps": 81.9672131147541,
+            "apiKey": "ad9970421fe07447bf011f78a88d72af2e7465df65d27844feeb2df9aa5f6772"
+          },
+          {
+            "timestamp": 1746555033674,
+            "response_time": 1159,
+            "input_tokens": 8,
+            "output_tokens": 15,
+            "tokens_generated": 23,
+            "provider_latency": 976,
+            "observed_speed_tps": 81.9672131147541,
+            "apiKey": "ad9970421fe07447bf011f78a88d72af2e7465df65d27844feeb2df9aa5f6772"
+          },
+          {
+            "timestamp": 1746555199407,
+            "response_time": 1823,
+            "input_tokens": 8,
+            "output_tokens": 15,
+            "tokens_generated": 23,
+            "provider_latency": 1640,
+            "observed_speed_tps": 81.9672131147541,
+            "apiKey": "ad9970421fe07447bf011f78a88d72af2e7465df65d27844feeb2df9aa5f6772"
+          },
+          {
+            "timestamp": 1746555376901,
+            "response_time": 1222,
+            "input_tokens": 8,
+            "output_tokens": 13,
+            "tokens_generated": 21,
+            "provider_latency": 1063,
+            "observed_speed_tps": 81.76100628930817,
+            "apiKey": "ad9970421fe07447bf011f78a88d72af2e7465df65d27844feeb2df9aa5f6772"
+          },
+          {
+            "timestamp": 1746555691414,
+            "response_time": 2250,
+            "input_tokens": 8,
+            "output_tokens": 120,
+            "tokens_generated": 128,
+            "provider_latency": 785,
+            "observed_speed_tps": 81.91126279863481,
+            "apiKey": "ad9970421fe07447bf011f78a88d72af2e7465df65d27844feeb2df9aa5f6772"
+          },
+          {
+            "timestamp": 1746555825789,
+            "response_time": 2274,
+            "input_tokens": 8,
+            "output_tokens": 122,
+            "tokens_generated": 130,
+            "provider_latency": 785,
+            "observed_speed_tps": 81.9341840161182,
+            "apiKey": "ad9970421fe07447bf011f78a88d72af2e7465df65d27844feeb2df9aa5f6772"
+          },
+          {
+            "timestamp": 1746555861666,
+            "response_time": 1868,
+            "input_tokens": 8,
+            "output_tokens": 117,
+            "tokens_generated": 125,
+            "provider_latency": 440,
+            "observed_speed_tps": 81.9327731092437,
+            "apiKey": "ad9970421fe07447bf011f78a88d72af2e7465df65d27844feeb2df9aa5f6772"
+          }
+        ],
+        "errors": 0,
+        "consecutive_errors": 0,
+        "avg_response_time": 1821.39,
+        "avg_provider_latency": 803.94,
+        "avg_token_speed": 81.92
+      },
+      "deepseek-chat": {
+        "id": "deepseek-chat",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "consecutive_errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
+      },
+      "deepseek-r1": {
+        "id": "deepseek-r1",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "consecutive_errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
+      },
+      "gemini-2.0-flash": {
+        "id": "gemini-2.0-flash",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "consecutive_errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
+      },
+      "grok-3": {
+        "id": "grok-3",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "consecutive_errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
+      },
+      "claude-3-7-sonnet": {
+        "id": "claude-3-7-sonnet",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "consecutive_errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
+      },
+      "claude-3-7-sonnet-thinking": {
+        "id": "claude-3-7-sonnet-thinking",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "consecutive_errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
+      },
+      "chatgpt-4o-latest": {
+        "id": "chatgpt-4o-latest",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "consecutive_errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
+      },
+      "gpt-search": {
+        "id": "gpt-search",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "consecutive_errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
+      },
+      "text-embedding-ada-002": {
+        "id": "text-embedding-ada-002",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "consecutive_errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
+      },
+      "text-embedding-3-large": {
+        "id": "text-embedding-3-large",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "consecutive_errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
+      },
+      "text-embedding-3-small": {
+        "id": "text-embedding-3-small",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "consecutive_errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
+      },
+      "davinci": {
+        "id": "davinci",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "consecutive_errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
+      },
+      "gpt-3.5-turbo-instruct": {
+        "id": "gpt-3.5-turbo-instruct",
+        "token_generation_speed": 50,
+        "response_times": [],
+        "errors": 0,
+        "consecutive_errors": 0,
+        "avg_response_time": null,
+        "avg_provider_latency": null,
+        "avg_token_speed": 50
+      }
+    },
+    "disabled": false,
+    "avg_response_time": 1571.67,
+    "avg_provider_latency": 964.11,
+    "errors": 0,
+    "provider_score": 87
   }
 ]
