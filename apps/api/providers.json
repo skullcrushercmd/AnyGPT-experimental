@@ -1,1 +1,75 @@
-{}
+[
+  {
+    "id": "openai-mock",
+    "apiKey": "mock-api-key-for-testing",
+    "provider_url": "http://localhost:3080/v1/chat/completions",
+    "models": {
+      "gpt-3.5-turbo": {
+        "id": "gpt-3.5-turbo",
+        "token_generation_speed": 20,
+        "response_times": [
+          {
+            "timestamp": 1756177552091,
+            "response_time": 2070,
+            "input_tokens": 8,
+            "output_tokens": 31,
+            "tokens_generated": 39,
+            "provider_latency": 520,
+            "observed_speed_tps": 20,
+            "apiKey": "f94b06121fcae0383f1284f4609a9783b2a60f1277b6670ec6edde62739edb35"
+          },
+          {
+            "timestamp": 1756177637052,
+            "response_time": 2056,
+            "input_tokens": 8,
+            "output_tokens": 31,
+            "tokens_generated": 39,
+            "provider_latency": 506,
+            "observed_speed_tps": 20,
+            "apiKey": "f94b06121fcae0383f1284f4609a9783b2a60f1277b6670ec6edde62739edb35"
+          },
+          {
+            "timestamp": 1756177648299,
+            "response_time": 2057,
+            "input_tokens": 8,
+            "output_tokens": 31,
+            "tokens_generated": 39,
+            "provider_latency": 507,
+            "observed_speed_tps": 20,
+            "apiKey": "f94b06121fcae0383f1284f4609a9783b2a60f1277b6670ec6edde62739edb35"
+          },
+          {
+            "timestamp": 1756177815334,
+            "response_time": 2070,
+            "input_tokens": 8,
+            "output_tokens": 31,
+            "tokens_generated": 39,
+            "provider_latency": 520,
+            "observed_speed_tps": 20,
+            "apiKey": "f94b06121fcae0383f1284f4609a9783b2a60f1277b6670ec6edde62739edb35"
+          },
+          {
+            "timestamp": 1756177851001,
+            "response_time": 2254,
+            "input_tokens": 12,
+            "output_tokens": 35,
+            "tokens_generated": 47,
+            "provider_latency": 504,
+            "observed_speed_tps": 20,
+            "apiKey": "f94b06121fcae0383f1284f4609a9783b2a60f1277b6670ec6edde62739edb35"
+          }
+        ],
+        "errors": 2,
+        "consecutive_errors": 0,
+        "avg_response_time": 2121.85,
+        "avg_provider_latency": 511.85,
+        "avg_token_speed": 20
+      }
+    },
+    "disabled": false,
+    "avg_response_time": 2101.4,
+    "avg_provider_latency": 511.4,
+    "errors": 2,
+    "provider_score": 81
+  }
+]
