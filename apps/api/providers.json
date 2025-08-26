@@ -47,19 +47,29 @@
             "provider_latency": 520,
             "observed_speed_tps": 20,
             "apiKey": "f94b06121fcae0383f1284f4609a9783b2a60f1277b6670ec6edde62739edb35"
+          },
+          {
+            "timestamp": 1756177851001,
+            "response_time": 2254,
+            "input_tokens": 12,
+            "output_tokens": 35,
+            "tokens_generated": 47,
+            "provider_latency": 504,
+            "observed_speed_tps": 20,
+            "apiKey": "f94b06121fcae0383f1284f4609a9783b2a60f1277b6670ec6edde62739edb35"
           }
         ],
         "errors": 2,
         "consecutive_errors": 0,
-        "avg_response_time": 2065.21,
-        "avg_provider_latency": 515.21,
+        "avg_response_time": 2121.85,
+        "avg_provider_latency": 511.85,
         "avg_token_speed": 20
       }
     },
     "disabled": false,
-    "avg_response_time": 2063.25,
-    "avg_provider_latency": 513.25,
+    "avg_response_time": 2101.4,
+    "avg_provider_latency": 511.4,
     "errors": 2,
-    "provider_score": 78
+    "provider_score": 81
   }
 ]
