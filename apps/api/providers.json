@@ -18,19 +18,29 @@
             "provider_latency": 1933,
             "observed_speed_tps": 50,
             "apiKey": "test-key-for-mock-provider"
+          },
+          {
+            "timestamp": 1756708907746,
+            "response_time": 2308,
+            "input_tokens": 8,
+            "output_tokens": 20,
+            "tokens_generated": 28,
+            "provider_latency": 1908,
+            "observed_speed_tps": 50,
+            "apiKey": "test-key-for-mock-provider"
           }
         ],
         "errors": 7,
         "consecutive_errors": 0,
-        "avg_response_time": 2333,
-        "avg_provider_latency": 1933,
+        "avg_response_time": 2325.5,
+        "avg_provider_latency": 1925.5,
         "avg_token_speed": 50
       }
     },
-    "avg_response_time": 2333,
-    "avg_provider_latency": 1933,
+    "avg_response_time": 2320.5,
+    "avg_provider_latency": 1920.5,
     "errors": 7,
-    "provider_score": 43,
+    "provider_score": 44,
     "disabled": false
   }
 ]
