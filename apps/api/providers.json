@@ -3,83 +3,34 @@
     "id": "openai-mock",
     "apiKey": "mock-api-key-for-testing",
     "provider_url": "http://localhost:3001/v1/chat/completions",
+    "streamingCompatible": true,
     "models": {
       "gpt-3.5-turbo": {
         "id": "gpt-3.5-turbo",
         "token_generation_speed": 50,
         "response_times": [
           {
-            "timestamp": 1756613092207,
-            "response_time": 281,
+            "timestamp": 1756708660689,
+            "response_time": 2333,
             "input_tokens": 8,
             "output_tokens": 20,
             "tokens_generated": 28,
-            "provider_latency": 0,
-            "observed_speed_tps": 71.17437722419928,
-            "apiKey": "f94b06121fcae0383f1284f4609a9783b2a60f1277b6670ec6edde62739edb35"
-          },
-          {
-            "timestamp": 1756613609094,
-            "response_time": 1500,
-            "input_tokens": 10,
-            "output_tokens": 25,
-            "tokens_generated": 35,
-            "provider_latency": 450,
-            "observed_speed_tps": 23,
-            "apiKey": "f94b06121fcae0383f1284f4609a9783b2a60f1277b6670ec6edde62739edb35"
-          },
-          {
-            "timestamp": 1756614168261,
-            "response_time": 241,
-            "input_tokens": 8,
-            "output_tokens": 20,
-            "tokens_generated": 28,
-            "provider_latency": 0,
-            "observed_speed_tps": 82.98755186721992,
-            "apiKey": "f94b06121fcae0383f1284f4609a9783b2a60f1277b6670ec6edde62739edb35"
-          },
-          {
-            "timestamp": 1756614199067,
-            "response_time": 186,
-            "input_tokens": 8,
-            "output_tokens": 20,
-            "tokens_generated": 28,
-            "provider_latency": 0,
-            "observed_speed_tps": 107.52688172043011,
-            "apiKey": "f94b06121fcae0383f1284f4609a9783b2a60f1277b6670ec6edde62739edb35"
-          },
-          {
-            "timestamp": 1756614869861,
-            "response_time": 543,
-            "input_tokens": 8,
-            "output_tokens": 20,
-            "tokens_generated": 28,
-            "provider_latency": 285,
-            "observed_speed_tps": 77.51937984496124,
-            "apiKey": "f94b06121fcae0383f1284f4609a9783b2a60f1277b6670ec6edde62739edb35"
-          },
-          {
-            "timestamp": 1756616473512,
-            "response_time": 550,
-            "input_tokens": 8,
-            "output_tokens": 20,
-            "tokens_generated": 28,
-            "provider_latency": 292,
-            "observed_speed_tps": 77.51937984496124,
-            "apiKey": "f94b06121fcae0383f1284f4609a9783b2a60f1277b6670ec6edde62739edb35"
+            "provider_latency": 1933,
+            "observed_speed_tps": 50,
+            "apiKey": "test-key-for-mock-provider"
           }
         ],
-        "errors": 0,
+        "errors": 7,
         "consecutive_errors": 0,
-        "avg_response_time": 486.44,
-        "avg_provider_latency": 179.87,
-        "avg_token_speed": 77.5
+        "avg_response_time": 2333,
+        "avg_provider_latency": 1933,
+        "avg_token_speed": 50
       }
     },
-    "avg_response_time": 550.17,
-    "avg_provider_latency": 171.17,
-    "errors": 0,
-    "provider_score": 98,
+    "avg_response_time": 2333,
+    "avg_provider_latency": 1933,
+    "errors": 7,
+    "provider_score": 43,
     "disabled": false
   }
 ]
